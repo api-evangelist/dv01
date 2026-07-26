@@ -1,0 +1,37 @@
+# dv01
+
+> dv01 is an "InvestorTech" data and analytics platform for the structured finance and consumer-lending markets, delivering standardized, validated, loan-level data and reporting to issuers, lenders, and investors. dv01 is part of Fitch Group. It publishes no public developer API; data is delivered into client environments via Snowflake Data Share, BigQuery, SFTP, and S3.
+
+## Company
+- [Website](https://www.dv01.co)
+- [About dv01](https://www.dv01.co/company/about-us/)
+- [Careers](https://www.dv01.co/company/careers/)
+- [Contact](https://www.dv01.co/contact/)
+
+## Offerings
+- [Data Direct — loan-level data into your stack (Snowflake, BigQuery, SFTP, S3)](https://www.dv01.co/offerings/data-direct/)
+- [Data Management](https://www.dv01.co/offerings/data-management/)
+- [DealStudio](https://www.dv01.co/offerings/dealstudio/)
+- [Securitizations](https://www.dv01.co/offerings/securitizations/)
+- [Tape Cracker](https://www.dv01.co/offerings/tape-cracker/)
+- [Portfolio Surveillance](https://www.dv01.co/offerings/portfolio-surveillance/)
+- [Market Surveillance](https://www.dv01.co/offerings/market-surveillance/)
+- [Credit Facility Reporting](https://www.dv01.co/offerings/credit-facility-reporting/)
+- [Enhanced Data and Insights](https://www.dv01.co/offerings/enhanced-data-and-insights/)
+- [Leverage Optimizer](https://www.dv01.co/offerings/leverage-optimizer/)
+
+## Application & Support
+- [dv01 Application (login)](https://dv01app.com/)
+- [Support / Help Center](https://dv01.freshdesk.com/support/home)
+
+## Resources
+- [Blog](https://www.dv01.co/resources/blog/)
+- [Latest](https://www.dv01.co/resources/latest/)
+- [Podcast](https://www.dv01.co/resources/podcast/)
+
+## Compliance
+- [dv01 becomes SOC 2 Type 2 compliant](https://resources.dv01.co/dv01-becomes-soc-2-type-2-compliant/)
+
+## Legal
+- [Terms and Conditions](https://www.dv01.co/terms-and-conditions/)
+- [Privacy Policy](https://www.dv01.co/privacy-policy/)

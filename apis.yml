@@ -1,9 +1,27 @@
 aid: dv01
 name: dv01
-description: 'dv01 is a company surfaced as a portfolio company of ribbit-capital and added to the API
-  Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  dv01 is an "InvestorTech" data and analytics platform for the structured finance and consumer-lending
+  markets, part of Fitch Group. It aggregates, standardizes, and validates loan-level data across asset
+  classes (RMBS, auto, student loans, personal loans, buy-now-pay-later) and delivers it, along with
+  reporting and surveillance tooling, to issuers, lenders, and investors. Products include Data Direct,
+  Data Management, DealStudio, Securitizations, Tape Cracker, and portfolio/market surveillance. dv01
+  publishes no public developer REST API or OpenAPI; data is delivered into client environments via
+  Snowflake Data Share, BigQuery, SFTP, and S3. This profile was surfaced as a portfolio company of
+  Ribbit Capital and enriched with verified public identity, compliance, and domain-security signals.
 url: https://raw.githubusercontent.com/api-evangelist/dv01/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.dv01.co/icons/icon-512x512.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
+- Structured Finance
+- Consumer Lending
+- Loan-Level Data
+- Data Analytics
+- Securitization
+- Portfolio Surveillance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.dv01.co
+- type: Blog
+  url: https://www.dv01.co/resources/blog/
+- type: Support
+  url: https://dv01.freshdesk.com/support/home
+- type: Login
+  url: https://dv01app.com/
+- type: TermsOfService
+  url: https://www.dv01.co/terms-and-conditions/
+- type: PrivacyPolicy
+  url: https://www.dv01.co/privacy-policy/
+- type: Compliance
+  url: https://resources.dv01.co/dv01-becomes-soc-2-type-2-compliant/
+- type: Conformance
+  url: conformance/dv01-conformance.yml
+- type: DomainSecurity
+  url: security/dv01-domain-security.yml
+- type: LLMsTxt
+  url: llms/dv01-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

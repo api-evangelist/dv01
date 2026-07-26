@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: searched
+source: https://resources.dv01.co/dv01-becomes-soc-2-type-2-compliant/
+standards:
+- id: soc2-type2
+  name: SOC 2 Type 2
+  conforms: true
+  evidence: >-
+    dv01 publicly announced achieving SOC 2 Type 2 compliance, attesting to the
+    security, availability, and confidentiality controls governing its loan-level
+    data platform.
+  source: https://resources.dv01.co/dv01-becomes-soc-2-type-2-compliant/
+notes: >-
+  dv01 is a data-delivery platform (Snowflake Data Share, BigQuery, SFTP, S3) for
+  structured finance and consumer-lending data; it publishes no public REST API,
+  OpenAPI, OAuth, or developer portal, so cross-cutting API standards (OAuth2,
+  OIDC, RFC 9457, JSON:API, pagination/idempotency) are not applicable and are
+  not asserted here. Only the published compliance posture is captured.
