@@ -10,6 +10,17 @@ description: >-
   Snowflake Data Share, BigQuery, SFTP, and S3. This profile was surfaced as a portfolio company of
   Ribbit Capital and enriched with verified public identity, compliance, and domain-security signals.
 url: https://raw.githubusercontent.com/api-evangelist/dv01/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
